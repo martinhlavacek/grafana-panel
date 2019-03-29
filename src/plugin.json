@@ -1,0 +1,24 @@
+{
+    "type": "panel",
+    "name": "Emma RSS Panel",
+    "id": "emma-rss-panel",
+    "dataFormats": ["time_series"],
+    "info": {
+      "description": "Grafana panel for rss feeds",
+      "author": {
+        "name": "Emma Team",
+        "url": "www.datera.cz"
+      },
+      "keywords": ["RSS Panel"],
+      "links": [],
+      "screenshots": [],
+      "version": "0.3.0",
+      "updated": "2018-12-06"
+    },
+  
+    "dependencies": {
+      "grafanaVersion": "6.0+",
+      "plugins": []
+    }
+  }
+  
